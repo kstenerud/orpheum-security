@@ -1,0 +1,12 @@
+# Private keys never belong here. These patterns refuse the usual names.
+stubs/
+id_*
+!id_*.pub
+*.key
+*_sk
+*-sk
+*.pem
+*.p12
+*.pfx
+*private*
+*secret*
