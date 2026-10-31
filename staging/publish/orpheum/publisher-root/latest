@@ -1,0 +1,9 @@
+orpheum-signed root 1
+chain publisher
+version 1
+issued 2026-10-31T16:09:45Z
+key recovery - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAVH4VwVmsfLBgTdgJjyMhdDkmMTPnmS1I4lf39dMrbH publisher-r1
+key everyday - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINPCmhkZLAMKvtCH75ZV6aBBEHJGplyA6bvfLfasvSo9 publisher-e1
+threshold recovery 1
+threshold everyday 1
+location https://orpheum.dev

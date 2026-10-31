@@ -1,0 +1,14 @@
+orpheum-signed address 1
+id od1-npmxozq3edg3krph72pefbpse76zqlojrlhdhuyaxhvxjnfztsva
+root-version 1
+sequence 1
+issued 2026-10-31T16:09:45Z
+expires 2027-10-31T16:09:45Z
+name Orpheum staging
+issuer https://orpheum.dev
+location https://orpheum.dev
+core-api https://api.orpheum.dev/core/v1
+client-api https://api.orpheum.dev/client/v1
+loader-origin https://orpheum.dev
+client-origins https://{core}.orpheum-client-test.com
+account-origin https://account.orpheum.dev

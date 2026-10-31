@@ -1,0 +1,60 @@
+{
+  "software": "/yoloai/files/orpheum-staging-keys",
+  "devices": [
+    {
+      "name": "e1",
+      "role": "everyday",
+      "kind": "software"
+    },
+    {
+      "name": "r1",
+      "role": "recovery",
+      "kind": "software"
+    }
+  ],
+  "keys": [
+    {
+      "chain": "discovery",
+      "name": "e1",
+      "role": "everyday",
+      "kind": "software",
+      "file": "/yoloai/files/orpheum-staging-keys/discovery-e1",
+      "pub": "keys/discovery-e1.pub"
+    },
+    {
+      "chain": "publisher",
+      "name": "e1",
+      "role": "everyday",
+      "kind": "software",
+      "file": "/yoloai/files/orpheum-staging-keys/publisher-e1",
+      "pub": "keys/publisher-e1.pub"
+    },
+    {
+      "chain": "discovery",
+      "name": "r1",
+      "role": "recovery",
+      "kind": "software",
+      "file": "/yoloai/files/orpheum-staging-keys/discovery-r1",
+      "pub": "keys/discovery-r1.pub"
+    },
+    {
+      "chain": "publisher",
+      "name": "r1",
+      "role": "recovery",
+      "kind": "software",
+      "file": "/yoloai/files/orpheum-staging-keys/publisher-r1",
+      "pub": "keys/publisher-r1.pub"
+    }
+  ],
+  "address": {
+    "issuer": "https://orpheum.dev",
+    "name": "Orpheum staging",
+    "coreApi": "https://api.orpheum.dev/core/v1",
+    "clientApi": "https://api.orpheum.dev/client/v1",
+    "loaderOrigin": "https://orpheum.dev",
+    "clientOrigins": "https://{core}.orpheum-client-test.com",
+    "accountOrigin": "https://account.orpheum.dev",
+    "homepage": "",
+    "support": ""
+  }
+}

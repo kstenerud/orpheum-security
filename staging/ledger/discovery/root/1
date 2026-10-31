@@ -1,0 +1,9 @@
+orpheum-signed root 1
+chain discovery
+version 1
+issued 2026-10-31T16:09:45Z
+key recovery - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIL++PsRfXoVTr9nK5fm4juhzVV8ih6UjurKwEjt84CE discovery-r1
+key everyday - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFGVLI1uu+dwQ0vbMMfjDQqHHQJm4SksfRoPDRWg52II discovery-e1
+threshold recovery 1
+threshold everyday 1
+location https://orpheum.dev
