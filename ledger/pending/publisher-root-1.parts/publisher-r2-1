@@ -1,0 +1,10 @@
+orpheum-signed root 1
+chain publisher
+version 1
+issued 2026-11-01T07:22:49Z
+key recovery uv sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIEiluylB6UgBPQmW37P15jrcfDb6DEGWei4EVDfNon2hAAAAGHNzaDpvcnBoZXVtLXB1Ymxpc2hlci1yMQ== publisher-r1
+key recovery uv sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIPzrv4G3J8LX9Gr7aCHnFFJ/1Vb4ZG86M2rSBRwvD7CMAAAAGHNzaDpvcnBoZXVtLXB1Ymxpc2hlci1yMg== publisher-r2
+key everyday uv sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIBh4svjVnlArynMAmvAKIBbB06F6l5uLvtq7mNQCF2vjAAAAGHNzaDpvcnBoZXVtLXB1Ymxpc2hlci1lMQ== publisher-e1
+threshold recovery 1
+threshold everyday 1
+location https://orpheum.cc

@@ -1,0 +1,15 @@
+orpheum-signed address 1
+id od1-ojqpqokixideeupioljfsqbfls3xnnvyktigmfreogljbdcng2wa
+root-version 1
+sequence 1
+issued 2026-11-01T07:22:49Z
+expires 2027-11-01T07:22:49Z
+name Orpheum
+issuer https://orpheum.cc
+location https://orpheum.cc
+core-api https://api.orpheum-app.com/core/v1
+client-api https://api.orpheum-app.com/client/v1
+loader-origin https://orpheum.cc
+client-origins https://{core}.orpheum-client.com
+account-origin https://account.orpheum.cc
+homepage https://orpheum.mov

@@ -1,0 +1,80 @@
+{
+  "devices": [
+    {
+      "name": "e1",
+      "role": "everyday",
+      "kind": "yubikey"
+    },
+    {
+      "name": "r1",
+      "role": "recovery",
+      "kind": "yubikey"
+    },
+    {
+      "name": "r2",
+      "role": "recovery",
+      "kind": "yubikey"
+    }
+  ],
+  "keys": [
+    {
+      "chain": "discovery",
+      "name": "e1",
+      "role": "everyday",
+      "kind": "yubikey",
+      "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/discovery-e1",
+      "pub": "keys/discovery-e1.pub"
+    },
+    {
+      "chain": "publisher",
+      "name": "e1",
+      "role": "everyday",
+      "kind": "yubikey",
+      "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/publisher-e1",
+      "pub": "keys/publisher-e1.pub"
+    },
+    {
+      "chain": "discovery",
+      "name": "r1",
+      "role": "recovery",
+      "kind": "yubikey",
+      "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/discovery-r1",
+      "pub": "keys/discovery-r1.pub"
+    },
+    {
+      "chain": "publisher",
+      "name": "r1",
+      "role": "recovery",
+      "kind": "yubikey",
+      "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/publisher-r1",
+      "pub": "keys/publisher-r1.pub"
+    },
+    {
+      "chain": "discovery",
+      "name": "r2",
+      "role": "recovery",
+      "kind": "yubikey",
+      "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/discovery-r2",
+      "pub": "keys/discovery-r2.pub"
+    },
+    {
+      "chain": "publisher",
+      "name": "r2",
+      "role": "recovery",
+      "kind": "yubikey",
+      "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/publisher-r2",
+      "pub": "keys/publisher-r2.pub"
+    }
+  ],
+  "address": {
+    "issuer": "https://orpheum.cc",
+    "name": "Orpheum",
+    "coreApi": "https://api.orpheum-app.com/core/v1",
+    "clientApi": "https://api.orpheum-app.com/client/v1",
+    "loaderOrigin": "https://orpheum.cc",
+    "clientOrigins": "https://{core}.orpheum-client.com",
+    "accountOrigin": "https://account.orpheum.cc",
+    "homepage": "https://orpheum.mov",
+    "support": ""
+  }
+}
