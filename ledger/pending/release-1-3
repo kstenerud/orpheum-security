@@ -1,0 +1,11 @@
+orpheum-signed release 1
+id op1-omdklrmb2exvylgki3r3newxmjcq2a2p46bhonezobw2zjemd23a
+root-version 1
+sequence 3
+issued 2026-11-18T07:38:13Z
+expires 2026-12-18T07:38:13Z
+latest v0.8.4
+image v0.8.4 sha256:7d37b821b8e7bca85a79866ebb37e84f3c8e6cc827d377b1ea090e5a6b29894b
+image v0.8.2 sha256:b09f1133da537d30e52fc93078b35fcfc505ff7433c193399ba3be0802b03d20
+image v0.4.0 sha256:bfe947af77f9decf5dbe137db2a1163c1b269255d7d491e5329678c22d429bfc
+pull ghcr.io/kstenerud/orpheum
