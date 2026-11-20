@@ -1,10 +1,11 @@
 orpheum-signed release 1
 id op1-omdklrmb2exvylgki3r3newxmjcq2a2p46bhonezobw2zjemd23a
 root-version 1
-sequence 6
-issued 2026-11-20T09:39:13Z
-expires 2026-12-20T09:39:13Z
-latest v0.8.7
+sequence 7
+issued 2026-11-20T16:58:57Z
+expires 2026-12-20T16:58:57Z
+latest v0.8.8
+image v0.8.8 sha256:6231f223f226f2c8004c750f90973427f7ebcc73bd52a2af4dbf2870911e84d1
 image v0.8.7 sha256:b0faf73942a62f31db75fece9d52a7c0ad10be14d13dbdcf53c0b9942490435c
 image v0.8.6 sha256:3d74a444106be536cb15ff6e2dc493d2dfe45a7426e58a88eca9caf6f9904b14
 image v0.8.5 sha256:956f4dfb2c78a115af14796f556e2fc4fb0f0b235a229539ba3da3f231b94e37
