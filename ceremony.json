@@ -14,6 +14,11 @@
       "name": "r2",
       "role": "recovery",
       "kind": "yubikey"
+    },
+    {
+      "name": "e2",
+      "role": "everyday",
+      "kind": "yubikey"
     }
   ],
   "keys": [
@@ -64,6 +69,22 @@
       "kind": "yubikey",
       "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/publisher-r2",
       "pub": "keys/publisher-r2.pub"
+    },
+    {
+      "chain": "discovery",
+      "name": "e2",
+      "role": "everyday",
+      "kind": "yubikey",
+      "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/discovery-e2",
+      "pub": "keys/discovery-e2.pub"
+    },
+    {
+      "chain": "publisher",
+      "name": "e2",
+      "role": "everyday",
+      "kind": "yubikey",
+      "file": "/Users/karlstenerud/Projects/orpheum-security/stubs/publisher-e2",
+      "pub": "keys/publisher-e2.pub"
     }
   ],
   "address": {

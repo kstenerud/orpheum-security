@@ -20,6 +20,7 @@ cat >"$work/allowed_signers" <<'SIGNERS'
 orpheum namespaces="orpheum-release-v1" sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIEiluylB6UgBPQmW37P15jrcfDb6DEGWei4EVDfNon2hAAAAGHNzaDpvcnBoZXVtLXB1Ymxpc2hlci1yMQ==
 orpheum namespaces="orpheum-release-v1" sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIPzrv4G3J8LX9Gr7aCHnFFJ/1Vb4ZG86M2rSBRwvD7CMAAAAGHNzaDpvcnBoZXVtLXB1Ymxpc2hlci1yMg==
 orpheum namespaces="orpheum-release-v1" sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIBh4svjVnlArynMAmvAKIBbB06F6l5uLvtq7mNQCF2vjAAAAGHNzaDpvcnBoZXVtLXB1Ymxpc2hlci1lMQ==
+orpheum namespaces="orpheum-release-v1" sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIPSznb2ioH2DrS0Me96qomaz+RjBzw4kCo30RjE0spW2AAAAGHNzaDpvcnBoZXVtLXB1Ymxpc2hlci1lMg==
 SIGNERS
 # The places the record is served at, origins separated by spaces.
 locations='https://orpheum.cc'
